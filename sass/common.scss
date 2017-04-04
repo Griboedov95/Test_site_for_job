@@ -1,0 +1,66 @@
+// COMMON STYLES
+
+* {
+	box-sizing: border-box;
+}
+
+.cf::after {
+	content: '';
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+
+
+.sect{
+    padding-top: 25px;
+    
+}
+
+.sect_foot{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+  color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: $weight-light;
+    margin: 0;
+}
+
+
+
+p{
+//  color: #fff;  
+}
+
+.sub{
+   
+}
+
+.btn{
+   
+    
+}
+
+a{
+    
+    text-transform: inherit;
+    text-decoration: none;
+    
+}
